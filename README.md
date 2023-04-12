@@ -1,0 +1,2 @@
+# Kooc
+Dinamic page
